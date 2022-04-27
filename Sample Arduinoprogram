@@ -1,2 +1,3 @@
 pinmode(3,OUT))
 digital write(3, HIGH)
+seriql
